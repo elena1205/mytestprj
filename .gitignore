@@ -1,5 +1,6 @@
 # files
 *.pyc
+*.out
 
 # directory
 data
